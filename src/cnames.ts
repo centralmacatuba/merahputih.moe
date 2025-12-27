@@ -9,5 +9,6 @@ export const data: ICnames = {
     "tekaje": "zarxd.github.io/tkj-one-gallery",
     "wibuapi": "wibuapi.onrender.com",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
+    "centralmacatuba": "centralmacatuba.eu.org",
   }
 };
