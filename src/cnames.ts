@@ -2,6 +2,7 @@ import { ICnames } from "./interfaces";
 
 export const data: ICnames = {
   active: {
+    "centralmacatuba": "centralmacatuba.eu.org",
     "indra": "stupendous-unicorn-65a376.netlify.app",
     "janda": "sinkaroid.github.io/jandapress",
     "lust": "sinkaroid.github.io/lustpress",
@@ -9,6 +10,5 @@ export const data: ICnames = {
     "tekaje": "zarxd.github.io/tkj-one-gallery",
     "wibuapi": "wibuapi.onrender.com",
     "zyxdevs": "zyxdevs.github.io/zYxDevs",
-    "centralmacatuba": "centralmacatuba.eu.org",
   }
 };
